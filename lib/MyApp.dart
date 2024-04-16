@@ -941,7 +941,7 @@ class _AudioRecorderState extends State<AudioRecorder> {
   //     cnt1++;
   //   }
   //   var headers = {
-  //     'Authorization': 'Bearer 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',
+  //     'Authorization': 'Bearer sk-',
   //     'Content-Type': 'application/json',
   //   };
   //
